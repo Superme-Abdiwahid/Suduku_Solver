@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Abdiwahids_Project",
+    "slug": "Abdiwahids_Project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Abdiwahids_Project"
+}
